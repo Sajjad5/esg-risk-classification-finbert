@@ -4,19 +4,16 @@ This project focuses on detecting and classifying Environmental, Social, and Gov
 The objective is to support banks and financial institutions in identifying potential ESG controversies, reputational risks, and sustainability-related threats associated with corporate clients and counterparties.
 
 The project uses the FinBERT transformer model implemented in PyTorch and trained on financial news datasets from Kaggle.
+https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news/data
 
-The system classifies news articles into ESG risk categories such as:
-
-Low ESG Risk
-Medium ESG Risk
-High ESG Risk
-
-This solution demonstrates how AI-driven ESG monitoring can support risk management, sustainable finance strategies, and regulatory compliance within the banking sector.
+### The system classifies news articles into ESG risk categories such as:
+* Low ESG Risk
+* Medium ESG Risk
+* High ESG Risk
 
 ### The system will:
 * Read financial/ESG news text
 * Classify ESG risk level
 * Use Deep Learning with PyTorch
 
-### Data 
-https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news/data
+
