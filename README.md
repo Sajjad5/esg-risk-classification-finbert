@@ -1,5 +1,17 @@
 ### AI-Driven ESG Controversy Detection Framework for Financial Institutions
-This project focuses on detecting and classifying Environmental, Social, and Governance (ESG) risks in financial news articles using Deep Learning and Natural Language Processing (NLP).The project uses the FinBERT transformer model implemented in PyTorch and trained on financial news datasets from Kaggle
+This project focuses on detecting and classifying Environmental, Social, and Governance (ESG) risks in financial news articles using Deep Learning and Natural Language Processing (NLP).
+
+The objective is to support banks and financial institutions in identifying potential ESG controversies, reputational risks, and sustainability-related threats associated with corporate clients and counterparties.
+
+The project uses the FinBERT transformer model implemented in PyTorch and trained on financial news datasets from Kaggle.
+
+The system classifies news articles into ESG risk categories such as:
+
+Low ESG Risk
+Medium ESG Risk
+High ESG Risk
+
+This solution demonstrates how AI-driven ESG monitoring can support risk management, sustainable finance strategies, and regulatory compliance within the banking sector.
 
 ### The system will:
 * Read financial/ESG news text
