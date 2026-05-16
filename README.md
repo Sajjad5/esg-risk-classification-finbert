@@ -5,3 +5,6 @@ This project focuses on detecting and classifying Environmental, Social, and Gov
 * Read financial/ESG news text
 * Classify ESG risk level
 * Use Deep Learning with PyTorch
+
+### Data 
+https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news/data
