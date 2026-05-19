@@ -1,12 +1,11 @@
-# Dataset Characteristics
+## About Dataset
+## Context
+This dataset (FinancialPhraseBank) contains the sentiments for financial news headlines from the perspective of a retail investor.
 
-This folder describes datasets used for ESG risk classification.
+https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news/data
 
-## Contents
-- Dataset description
-- Data sources (Kaggle, financial news)
-- Label definitions
-- Data preprocessing steps
+## Content
+The dataset contains two columns, "Sentiment" and "News Headline". The sentiment can be negative, neutral or positive.
 
-## Responsible
-Data engineering + preprocessing
+## Acknowledgements
+Malo, P., Sinha, A., Korhonen, P., Wallenius, J., & Takala, P. (2014). Good debt or bad debt: Detecting semantic orientations in economic texts. Journal of the Association for Information Science and Technology, 65(4), 782-796.
