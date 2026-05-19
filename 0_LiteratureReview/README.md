@@ -77,9 +77,14 @@ Despite rapid progress, there is limited end-to-end research that combines:
 * Incorporating explainability, calibration, and robustness checks aligned with banking deployment.
 * Demonstrating practical workflows—data governance, human-in-the-loop review, and integration patterns for news-driven ESG risk alerts.
 
-## 10. Future Directions
-* Multi-language ESG monitoring using multilingual or aligned encoders.
-* Real-time retrieval-augmented classification with entity linking for issuer-specific risk.
-* Explainable AI at scale (faithful attributions, counterfactual explanations).
-* Graph methods to model ESG risk propagation across supply chains and counterparties.
-* Time-aware transformers to forecast ESG risk trajectories and persistence of controversies.
+## 10. References
+* Vaswani, A., et al. (2017). Attention Is All You Need. NeurIPS.
+* Devlin, J., et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL.
+* Wolf, T., et al. (2020). Transformers: State-of-the-Art Natural Language Processing. EMNLP.
+* ProsusAI. FinBERT: Financial Sentiment Analysis. Hugging Face model card (ProsusAI/finbert).
+* Araci, D. (2019). FinBERT: Financial Sentiment Analysis with Pre-trained Language Models. arXiv preprint.
+* Malo, P., et al. (2014). Good Debt or Bad Debt: Detecting Semantic Orientations in Economic Texts (Financial PhraseBank). Journal of the American Society for Information Science and Technology.
+* European Central Bank (ECB). (2020). Guide on climate-related and environmental risks: Supervisory expectations for risk management and disclosure.
+* European Banking Authority (EBA). (2021). Report on management and supervision of ESG risks for credit institutions and investment firms.
+* Basel Committee on Banking Supervision (BCBS). (2022). Principles for the effective management and supervision of climate-related financial risks.
+* Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017). On Calibration of Modern Neural Networks. ICML.
